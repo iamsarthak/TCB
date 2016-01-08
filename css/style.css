@@ -1,0 +1,35 @@
+#main-stuff{
+    background-image: url("../images/179.jpg");
+    
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height:70%;
+    background-attachment: fixed;
+}
+
+@media only screen and (max-width: 400px) {
+    /* styles for narrow screens */
+    #main-stuff{
+    background-image: url("../images/179 copy.jpg");
+    
+    background-position: center;
+    
+    background-repeat: no-repeat;
+    
+    background-attachment: fixed;
+    
+}
+}
+
+.events{
+    
+    background-image: url("../images/event.png");
+    
+    background-position: center;
+   
+    background-repeat: no-repeat;
+    
+    background-attachment: fixed;
+    
+}
